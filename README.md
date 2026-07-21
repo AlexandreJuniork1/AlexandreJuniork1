@@ -17,6 +17,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Foco+em+Backend;PHP+%7C+Laravel+%7C+Vue.js;Aprendizado+cont%C3%ADnuo+todos+os+dias" alt="Typing SVG" />
 </a>
 
+<!-- COISA LEGAL: contador de visitas do perfil (badge dinamico). -->
+<br/>
+<img src="https://komarev.com/ghpvc/?username=AlexandreJuniork1&label=Visitas%20no%20perfil&color=8B5CF6&style=flat" alt="Visitas no perfil" />
+
 </div>
 
 <!-- ============================================================= -->
@@ -35,8 +39,9 @@ Ola! Meu nome e **Alexandre Junior** e sou apaixonado por **desenvolvimento de s
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="28" /> Atualmente...
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" /> Desenvolvendo no dia a dia com **PHP / Laravel** e **Vue.js**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" width="20" /> Trabalhando com bancos de dados **SQL / MySQL**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" width="20" /> Trabalhando com bancos de dados **SQL / MySQL / PostgreSQL / Oracle**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Building%20Construction.png" width="20" /> Aprimorando **arquitetura backend** e **boas praticas** de codigo
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Snake.png" width="20" /> Explorando **Python** e experimentando **Flutter** para apps mobile
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="20" /> Estudando **ingles** para me comunicar melhor no mundo tech
 
 <!-- ============================================================= -->
@@ -69,15 +74,15 @@ Ola! Meu nome e **Alexandre Junior** e sou apaixonado por **desenvolvimento de s
 
 **Linguagens de Programacao**
 
-<img src="https://skillicons.dev/icons?i=php,js,html,css" alt="Linguagens" />
+<img src="https://skillicons.dev/icons?i=php,js,python,html,css" alt="Linguagens" />
 
 **Frameworks e Bibliotecas**
 
-<img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,bootstrap" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=laravel,vue,flutter,tailwind,bootstrap" alt="Frameworks" />
 
 **Banco de Dados**
 
-<img src="https://skillicons.dev/icons?i=mysql" alt="Banco de Dados" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" alt="Banco de Dados" />
 
 **Ferramentas e DevOps**
 
@@ -86,39 +91,42 @@ Ola! Meu nome e **Alexandre Junior** e sou apaixonado por **desenvolvimento de s
 </div>
 
 <!-- ============================================================= -->
-<!-- 7. SECAO "Principais Linguagens"                              -->
-<!-- Card github-readme-stats (top-langs) com tema "react".        -->
-<!-- Troque "AlexandreJuniork1" se mudar de usuario.               -->
+<!-- 7. SECAO "Principais Linguagens" + Estatisticas               -->
+<!-- Cards github-readme-stats com tema "react".                   -->
+<!-- COISA LEGAL: adicionei o card de estatisticas gerais e o streak -->
+<!-- (mas sem o grid de dias/contribuicoes que voce nao quis).     -->
 <!-- ============================================================= -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Alien%20Monster.png" width="28" /> Principais Linguagens
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Alien%20Monster.png" width="28" /> Principais Linguagens & Estatisticas
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreJuniork1&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=AlexandreJuniork1&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" />
+
 </div>
 
 <!-- ============================================================= -->
-<!-- 8. SNAKE ANIMATION                                            -->
-<!-- A cobra "come" o grid de contribuicoes.                       -->
-<!-- Estes SVGs SO aparecem depois que o workflow do GitHub Actions -->
-<!-- rodar e gerar os arquivos na branch "output" (ver instrucoes). -->
+<!-- 8. TROFEUS (COISA LEGAL)                                      -->
+<!-- Trofeus do github-profile-trophy com tema combinando.         -->
 <!-- ============================================================= -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> Conquistas
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexandreJuniork1/AlexandreJuniork1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexandreJuniork1/AlexandreJuniork1/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/AlexandreJuniork1/AlexandreJuniork1/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=AlexandreJuniork1&theme=algolia&no-frame=true&column=7&margin-w=10" alt="Trofeus" />
 
 </div>
 
 <!-- ============================================================= -->
 <!-- 9. RODAPE                                                     -->
-<!-- Segundo Typing SVG com frase de encerramento.                 -->
+<!-- Frase de dev animada + segundo Typing SVG de encerramento.    -->
 <!-- ============================================================= -->
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Obrigado+pela+visita!+%F0%9F%91%8B;Vamos+construir+algo+incr%C3%ADvel+juntos!" alt="Footer Typing SVG" />
 
