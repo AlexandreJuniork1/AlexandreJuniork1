@@ -1,0 +1,33 @@
+# Este workflow gera a animacao da cobra a cada 12 horas (e quando voce quiser).
+# Ele le seu grid de contribuicoes e cria os arquivos SVG na branch "output".
+name: Gerar Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # Roda a cada 12 horas
+  workflow_dispatch:         # Permite rodar manualmente pelo botao "Run workflow"
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write        # Necessario para gravar na branch "output"
+    steps:
+      - name: Gerar o SVG da cobra
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AlexandreJuniork1
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publicar na branch "output"
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
