@@ -34,7 +34,6 @@ Ola! Meu nome e **Alexandre Junior** e sou apaixonado por **desenvolvimento de s
 <!-- ============================================================= -->
 <!-- 4. SECAO "Atualmente..."                                      -->
 <!-- Emojis animados dos Animated Fluent Emojis (Tarikul-Islam-Anik). -->
-<!-- A tag <img> logo apos o titulo insere o emoji animado.        -->
 <!-- ============================================================= -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="28" /> Atualmente...
 
@@ -47,8 +46,7 @@ Ola! Meu nome e **Alexandre Junior** e sou apaixonado por **desenvolvimento de s
 <!-- ============================================================= -->
 <!-- 5. SECAO "Vamos nos conectar!"                                -->
 <!-- Badges clicaveis (shields.io) centralizados.                  -->
-<!-- ATENCAO: a URL do LinkedIn tem acento em "junior".            -->
-<!-- Ela foi codificada (u -> %C3%BA) para o link nunca quebrar.   -->
+<!-- ATENCAO: a URL do LinkedIn tem acento em "junior" (u -> %C3%BA). -->
 <!-- ============================================================= -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="28" /> Vamos nos conectar!
 
@@ -65,8 +63,9 @@ Ola! Meu nome e **Alexandre Junior** e sou apaixonado por **desenvolvimento de s
 
 <!-- ============================================================= -->
 <!-- 6. SECAO "Minhas Skills"                                      -->
-<!-- Icones via skillicons.dev. Cada &i= adiciona uma tecnologia.  -->
-<!-- Lista de icones disponiveis: https://skillicons.dev          -->
+<!-- Icones via skillicons.dev.                                    -->
+<!-- OBS: o skillicons.dev NAO tem icone para "oracle", por isso    -->
+<!-- o Oracle e mostrado como um badge do shields.io logo abaixo.   -->
 <!-- ============================================================= -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> Minhas Skills
 
@@ -82,7 +81,11 @@ Ola! Meu nome e **Alexandre Junior** e sou apaixonado por **desenvolvimento de s
 
 **Banco de Dados**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" alt="Banco de Dados" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Banco de Dados" />
+<br/>
+<!-- Oracle via badge shields.io porque skillicons nao tem esse icone -->
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 
 **Ferramentas e DevOps**
 
@@ -91,35 +94,22 @@ Ola! Meu nome e **Alexandre Junior** e sou apaixonado por **desenvolvimento de s
 </div>
 
 <!-- ============================================================= -->
-<!-- 7. SECAO "Principais Linguagens" + Estatisticas               -->
-<!-- Cards github-readme-stats com tema "react".                   -->
-<!-- COISA LEGAL: adicionei o card de estatisticas gerais e o streak -->
-<!-- (mas sem o grid de dias/contribuicoes que voce nao quis).     -->
+<!-- 7. SECAO "Principais Linguagens"                              -->
+<!-- Card github-readme-stats (top-langs) com tema "react".        -->
+<!-- OBS: este servico e externo (vercel) e as vezes fica instavel; -->
+<!-- se aparecer so o texto "Top Languages", e temporario - o card  -->
+<!-- volta a aparecer quando o servico normaliza. Recarregue depois. -->
 <!-- ============================================================= -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Alien%20Monster.png" width="28" /> Principais Linguagens & Estatisticas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Alien%20Monster.png" width="28" /> Principais Linguagens
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreJuniork1&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlexandreJuniork1&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" />
-
 </div>
 
 <!-- ============================================================= -->
-<!-- 8. TROFEUS (COISA LEGAL)                                      -->
-<!-- Trofeus do github-profile-trophy com tema combinando.         -->
-<!-- ============================================================= -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlexandreJuniork1&theme=algolia&no-frame=true&column=7&margin-w=10" alt="Trofeus" />
-
-</div>
-
-<!-- ============================================================= -->
-<!-- 9. RODAPE                                                     -->
+<!-- 8. RODAPE                                                     -->
 <!-- Frase de dev animada + segundo Typing SVG de encerramento.    -->
 <!-- ============================================================= -->
 <div align="center">
