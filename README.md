@@ -1,11 +1,11 @@
-<!-- ============================================================= -->
+h<!-- ============================================================= -->
 <!-- 1. BANNER DE TOPO                                             -->
 <!-- Imagem de capa gerada dinamicamente pelo servico capsule-render. -->
 <!-- Voce pode trocar a mensagem no parametro "text" e as cores em "color". -->
 <!-- ============================================================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=220&section=header&text=Hello,%20I'm%20Alexandre&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20profile%20:)&descSize=20&descAlignY=62" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?htype=waving&color=0:8B5CF6,100:3B82F6&height=220&section=header&text=Hello,%20I'm%20Alexandre&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20profile%20:)&descSize=20&descAlignY=62" width="100%" alt="banner"/>
 
 <!-- ============================================================= -->
 <!-- 2. TYPING SVG ANIMADO                                         -->
@@ -27,7 +27,7 @@
 <!-- ============================================================= -->
 ## 🧑‍💻 Sobre mim
 
-Ola! Meu nome e **Alexandre Junior** e sou apaixonado por **desenvolvimento de software**. Atualmente curso **Tecnologo em Analise e Desenvolvimento de Sistemas na Estacio** (previsao de conclusao em 2027) e atuo como desenvolvedor **Full Stack com foco em Backend**. Acredito no **aprendizado continuo**, em **compartilhar conhecimento** com a comunidade e em construir **projetos com proposito** que resolvem problemas reais. Cada linha de codigo e uma oportunidade de evoluir um pouco mais. 🚀
+Ola! Meu nome e **Alexandre Junior** e sou apaixonado por **desenvolvimento de software**. Atualmente curso **Tecnologo em Analise e Desenvolvimento de Sistemas na Estacio** (concluido em 2026) e atuo como desenvolvedor **Full Stack com foco em Backend**. Acredito no **aprendizado continuo**, em **compartilhar conhecimento** com a comunidade e em construir **projetos com proposito** que resolvem problemas reais. Cada linha de codigo e uma oportunidade de evoluir um pouco mais. 🚀
 
 <!-- ============================================================= -->
 <!-- 4. SECAO "Atualmente..."                                      -->
