@@ -1,11 +1,11 @@
-h<!-- ============================================================= -->
+<!-- ============================================================= -->
 <!-- 1. BANNER DE TOPO                                             -->
 <!-- Imagem de capa gerada dinamicamente pelo servico capsule-render. -->
 <!-- Voce pode trocar a mensagem no parametro "text" e as cores em "color". -->
 <!-- ============================================================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?htype=waving&color=0:8B5CF6,100:3B82F6&height=220&section=header&text=Hello,%20I'm%20Alexandre&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20profile%20:)&descSize=20&descAlignY=62" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=220&section=header&text=Hello,%20I'm%20Alexandre&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20profile%20:)&descSize=20&descAlignY=62" width="100%" alt="banner"/>
 
 <!-- ============================================================= -->
 <!-- 2. TYPING SVG ANIMADO                                         -->
